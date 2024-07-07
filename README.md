@@ -1,7 +1,7 @@
 ### Hi, I'm Paulo Ricardo!
 
 [![Portfolio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://paulorrrrr.github.io/meuPortfolio/index.html)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ricardo-6a5038193/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-ricardonds)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](notadead5@gmail.com)
 
 ## Meu Portfolio:
@@ -21,11 +21,8 @@ https://meuportfolio-react.vercel.app
     <img align="center" alt="Sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
-[![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloRRRRR&show_icons=true&theme=dracula)](https://github.com/PauloRRRRR/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRRRRR&layout=compact)](https://github.com/PauloRRRRR/github-readme-stats)
-
 ## Facts about me:
 
-- I'm currently studying Computer's Science at UFRPE 
+- Junior Software Engineer with more than 2 years of experience with software development
+in different industry sectors, such as fintechs and edutechs
 - I love to know new things, working as a team and to get new experiences, I hope some day working in another country to improve my english and experience what is to live and work with all kinds of people.
