@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](notadead5@gmail.com)
 
 ## Meu Portfolio:
-https://meuportfolio-react.vercel.app
+https://my-portfolio-react-ruby.vercel.app/
 
 ## Technologies I'm using
 
